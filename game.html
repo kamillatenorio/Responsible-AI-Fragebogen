@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Quiz Game</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="quiz-container">
+        <div class="question-box">
+            <p class="question-text"></p> <!-- This will be dynamically populated -->
+        </div>
+        <div class="options-container">
+            <button class="option-button" data-answer="true"><span>1</span> Wahr</button>
+            <button class="option-button" data-answer="false"><span>2</span> Falsch</button>
+        </div>
+        <div class="score-box">
+            <p>Richtig: <span id="score">0</span></p>
+        </div>
+        <!-- Initially hide the Read More button -->
+        <button class="read-more-button" style="display: none;">Mehr lesen</button>
+    </div>
+
+    <script src="game.js"></script>
+</body>
+</html>
