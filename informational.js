@@ -23,7 +23,7 @@ const informationalContent = [
         imageSrc: "Politic.svg",
         imageAlt: "Generative AI Misinformation",
         caption: "Rosenberg, M., Confessore, N., & Cadwalladr, C. (2018, March 17). How Trump consultants exploited the Facebook data of millions. The New York Times.  <a href='https://www.nytimes.com/2018/03/17/us/politics/cambridge-analytica-trump-campaign.html' target='_blank'> Source</a>.",
-        mainText: "Der Einsatz von KI-adaptiven Systemen, um Lesern personalisierte Nachrichten auf der Grundlage ihres bisherigen Leseverhaltens zu präsentieren, kann die gesellschaftliche Polarisierung verstärken.<br><br>",
+        mainText: "Der Einsatz von KI-adaptiven Systemen, um Lesenden personalisierte Nachrichten auf der Grundlage ihres bisherigen Leseverhaltens zu präsentieren, kann die gesellschaftliche Polarisierung verstärken.<br><br>",
         secondaryText: "Ein berühmtes Beispiel war der Fall Cambridge Analytica, bei dem Daten, die von Facebook gestohlen wurden, verwendet wurden, um Nutzerprofile auf der Grundlage ihres Verhaltens zu erstellen. Unter Berücksichtigung dieser Profile wurden automatisch Entscheidungen getroffen, um Inhalte für politische Manipulationszwecke zu personalisieren.",
         reference: ""
     },
@@ -33,7 +33,7 @@ const informationalContent = [
         imageAlt: "Generative AI Misinformation",
         caption: "In J. Delcker, Clearview AI controversy highlights rise of high-tech surveillance. DW. <a href='https://www.dw.com/en/clearview-ai-controversy-highlights-rise-of-high-tech-surveillance/a-57890435' target='_blank'>Example Source</a>.",
         mainText: "KI-Bilderkennungssysteme können, wenn sie in öffentlich zugänglichen Räumen installiert werden, die Privatsphäre einer großen Anzahl von Menschen verletzen und ein Gefühl der ständigen Überwachung erzeugen.<br><br>",
-        secondaryText: "Zum Beispiel wurde eine Gesichtserkennungssoftware, die auf der Grundlage von Milliarden von Fotos aus dem Internet entwickelt wurde, von der Polizei in verschiedenen Ländern eingesetzt und  löst bei Menschenrechtsforschern Bedenken hinsichtlich der Überwachung von Bürgern aus.",
+        secondaryText: "Zum Beispiel wurde eine Gesichtserkennungssoftware, die auf der Grundlage von Milliarden von Fotos aus dem Internet entwickelt wurde, von der Polizei in verschiedenen Ländern eingesetzt und  löst bei Menschenrechtsforschenden Bedenken hinsichtlich der Überwachung von Bürgern aus.",
         reference: ""
     }
 ];
