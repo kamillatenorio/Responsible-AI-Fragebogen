@@ -7,11 +7,11 @@ const questions = [
         correctAnswer: "true"
     },
     {
-        question: "Generative KI-Systeme, die in erster Linie zur Förderung der Kreativität entwickelt wurden, tragen zur Verbreitung von Fehlinformationen bei.",
+        question: "Obwohl generative KI-Systeme ein hohes Potenzial zur Förderung von Kreativität haben, tragen sie zur Verbreitung von Fehlinformationen bei.",
         correctAnswer: "true"
     },
     {
-        question: "Ein Unternehmen (Cambridge Analytica) hat Daten von Facebook verwendet, um automatisch Nutzerprofile zu erstellen und Inhalte für politische Manipulationszwecke zu personalisieren.",
+        question: "Ein Unternehmen hat Daten von Facebook verwendet, um automatisch Nutzerprofile zu erstellen und Inhalte für politische Manipulationszwecke zu personalisieren.",
         correctAnswer: "true"
     },
     {
