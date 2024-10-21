@@ -4,7 +4,7 @@ const informationalContent = [
         title: "Umweltauswirkungen",
         imageSrc: "EnvironmentImpact.svg", 
         imageAlt: "AI Energy Consumption Illustration",
-        caption: "Vincent, James. “How Much Electricity Does AI Consume?” The Verge, February 16, 2024. <a href='https://www.theverge.com/2023/6/5/23752586/ai-electricity-energy-watts-generative-consumption' target='_blank'>Quelle</a>.“",
+        caption: "Vincent, James. “How Much Electricity Does AI Consume?” The Verge, February 16, 2024. <a href='https://www.theverge.com/24066646/ai-electricity-energy-watts-generative-consumption' target='_blank'>Quelle</a>.“",
         mainText: "Ja, das stimmt! Laut einem kürzlich erschienenen Artikel [1] <strong>kann die <em>Erzeugung eines Bildes mithilfe von KI fast so viel Energie verbrauchen wie das Aufladen Ihres Smartphones.</strong><br><br>",
         secondaryText: "Nicht nur das Training von KI-generativen Systemen, sondern auch die Nutzung von KI-generativen Systemen kann den Stromverbrauch erhöhen.</strong>",
         reference: "[1] Luccioni, Sasha, Yacine Jernite, and Emma Strubell. 'Power Hungry Processing: Watts Driving the Cost of AI Deployment?' In Proceedings of the 2024 ACM conference on Fairness, Accountability, and Transparency, 85–99. FAccT '24, New York, NY, USA: Association for Computing Machinery, 2024. <a href='https://dl.acm.org/doi/10.1145/3630106.3658542' target='_blank'>https://dl.acm.org/doi/10.1145/3630106.3658542</a>."
